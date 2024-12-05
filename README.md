@@ -3,7 +3,7 @@
 <h1 align="center">Hi, nice to meet you!</h1>
 
 ## About me
-I'm a geeky-things enthusiast and aspiring developer whose passion for creating and building stuff was recently reignited by the [The Odin Project](https://www.theodinproject.com/) course, which I'm currently learning from. Coding has opened up exciting new avenues for me to explore my creativity and challenge myself. Whether I'm navigating through dozens of pages of documentation or tackling seemingly impossible problems, I always find something new and interesting to learn.<p align="right"><img align="right" src="https://github.com/user-attachments/assets/b67cfef0-9a06-4fbc-8374-532f88cf1586" /></p>
+I'm a geeky-things enthusiast and front-end developer passionate for creating and building all sorts of stuff. Coding has opened up exciting new avenues for me to explore my creativity and challenge myself. Whether I'm navigating through dozens of pages of documentation or tackling seemingly impossible problems, I always find something new and interesting to learn.<p align="right"><img align="right" src="https://github.com/user-attachments/assets/b67cfef0-9a06-4fbc-8374-532f88cf1586" /></p>
 
 But not only that, developing allows me to connect with a community of other people with amazing ideas of their own! Much like with mathematics or English, learning programming languages is a unique way to express certain thoughts in an organized, systematic manner, and also to read the thoughts of others and help solve their problems. Doesn't it broaden one's view to know different ways to communicate?
 
