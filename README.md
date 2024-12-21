@@ -18,25 +18,6 @@ Ultimately, I want to contribute meaningfully to the community in a way that fee
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softy-dev&theme=radical&layout=compact&card_width=475px&hide_border=true" />
 </p>
 
-## Projects
-Here are the main projects I have authored up until now. They've helped me hone my problem-solving skills by building them from scratch, utilizing documentation and my own research.
-
-### Applications
-- **[To-do List](https://github.com/softy-dev/to-do-list)** - **Insight:** use of Local Storage for data persistence accross sessions;
-- **[Weather Application](https://github.com/softy-dev/weather-app)** - **Insight:** Fetch API for asynchronous requests and JSON parsing to handle the received data;
-- **[Resume Builder](https://github.com/softy-dev/resume-builder)** - **Insight:** use of React custom hooks, state management and flexible components.
-
-### Games
-- **[Battleship](https://github.com/softy-dev/battleship)** - **Insight:** drag and drop implementation, game algorithm for CPU and thorough testing of public interface with Jest;
-- **[Tic-tac-toe](https://github.com/softy-dev/tic-tac-toe)** - **Insight:** modularity with factory functions and separation of concerns.
-- **[Memory Card](https://github.com/softy-dev/memory-card)** - **Insight:** use of React effect hooks with API data fetching.
-
-### Webpages
-- **[Restaurant Page](https://github.com/softy-dev/restaurant-page)** - **Insight:** use of Webpack, packages and helper functions to quickly generate whole pages with DOM methods;
-- **[Dashboard](https://github.com/softy-dev/dashboard)** - **Insight:** creation of a complex layout with strict use of CSS grid property;
-- **[Sign-up Form](https://github.com/softy-dev/sign-up-form)** - **Insight:** client-side form validation with accessibility considerations;
-- **[Homepage](https://github.com/softy-dev/homepage)** - **Insight:** fully responsive layout with three designs for different viewports.
-
 ## Other inspirations
 I'm passionate about games and challenges, but I'm especially captivated by RPGs (and I've even delved into [modding](https://en.wikipedia.org/wiki/Video_game_modding)!). It gives me joy to explore the diverse, rich stories that come from them. When I'm looking to relax, I find the perfect ingredient to be a rainy day. Then, like a cherry on the cake, give me a playlist of indie or alternative music and I have the mood set for whatever it is that I'm doing. As kind of an introvert, my good nose for witty humor is what leads me to forge friendships. I have a strong interest in science, so when I'm not coding, it's not a far guess that I'm probably reading about a random intriguing topic in history or astronomy. 
 
